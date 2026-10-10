@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/NGDC stuff/Trials/trials_project/Content/Characters/Berserker/mat1.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Characters/Berserker/mat2.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Characters/Berserker/mat3.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Characters/Berserker/berserker-armor.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Characters/Berserker/001.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Characters/Berserker/002.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Characters/Berserker/007.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Characters/Berserker/009.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Characters/Berserker/010.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Characters/Berserker/012.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Characters/Berserker/014.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Characters/Berserker/016.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Mixamo/Idle.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Mixamo/Running.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Mixamo/Walking.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Characters/Berserker/berserker-armor_Anim.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Characters/Berserker/berserker-armor_PhysicsAsset.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Characters/Berserker/berserker-armor_Skeleton.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Characters/Berserker/mat0.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Characters/Berserker/mat4.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Characters/Berserker/mat5.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Animations/Berserker_Anim.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Animations/Berserker_BlendSpace.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Mixamo/Left_Strafe_Walking.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Mixamo/Right_Strafe_Walking.uasset",
+				"C:/NGDC stuff/Trials/trials_project/Content/Mixamo/Walking_Backward.uasset"
+			]
+		}
+	]
+}
